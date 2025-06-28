@@ -41,7 +41,7 @@ Preview Aplikasi
 
 
 Link Deploy Aplikasi:
-Akses SehatCheck di sini (via Streamlit Cloud)
+[Akses SehatCheck di sini](https://sehatcheck-cek-diagnosis-penyakit.streamlit.app/) (via Streamlit Cloud)
 
 ⚠️ Disclaimer: Aplikasi ini bukan alat diagnosa medis resmi. Hanya untuk edukasi dan referensi awal. Selalu konsultasikan dengan dokter untuk pemeriksaan lanjutan.
 
