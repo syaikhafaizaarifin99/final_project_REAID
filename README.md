@@ -13,11 +13,7 @@ Fitur-Fitur Utama
 - Diagnosa berbasis aturan (rule-based) dan model AI Naive Bayes
 - Chatbot AI Dokter berbasis OpenAI GPT
 - Saran tindakan awal berdasarkan hasil prediksi
-- Mode ChatGPT aktif real-time tanpa perlu tombol cek
-- Cara Menjalankan di Lokal
-
-Clone repositori:
-git clone https://github.com/syaikhafaizaarifin99/final_project_REAID.git
+- Mode ChatGPT aktif real-time
 
 Buat environment dan install dependency:
 python -m venv venv
@@ -28,7 +24,7 @@ Tambahkan file .env untuk API Key OpenAI:
 OPENAI_API_KEY=your_openai_api_key
 
 Jalankan Streamlit App:
-streamlit run app.py
+streamlit run homepage.py
 
 Preview Aplikasi
 
