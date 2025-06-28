@@ -1,0 +1,13 @@
+# Jangan commit file ini karena berisi API key rahasia
+.env
+
+# File dan folder Python umum yang perlu diabaikan
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# File Streamlit yang tidak perlu di-Git
+.streamlit/config.toml
